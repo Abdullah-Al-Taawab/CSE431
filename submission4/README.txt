@@ -5,7 +5,7 @@ Conference / Paper submission login URL:
 
 
 Paper title:
-Detecting positive, negative and neutral transliterated Bengali corpus using machine learning algorithms
+Positive, Negative and Neutral Content Detection In Transliterated Bengali Corpus Using MachineLearning Algorithms
 
 
 Paper :
